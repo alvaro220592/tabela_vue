@@ -1,0 +1,15 @@
+composer require laravel/ui
+
+php artisan ui vue --auth
+
+npm install && npm run dev
+
+criar banco de dados
+
+configurar .env
+
+migrate
+
+criar UserController (a tabela mostrará os usuários)
+
+editar web.php
